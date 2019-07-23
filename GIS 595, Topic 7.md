@@ -1,6 +1,6 @@
 # GIS 595, Topic 7
-<p align="center">**Todd Kesselring**
-**7/22/2019**</p>
+<p align="center">Todd Kesselring</p>
+<p align="center">7/22/2019</p>
 
 - **Open source project:** Immigration-connect
 - **Project license:** Can't find any in the project or the Data for Democracy group the project is under
